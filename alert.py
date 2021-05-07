@@ -24,8 +24,8 @@ def send(name,msg,count=1):
         pat.press("tab")
     pat.keyUp("shift")
     time.sleep(0.05)
-l=["91006 68244","95811 13355","73968 80910","89198 25321","97019 39599"]
-#l=["8019447255","8331897847"]
+l=["9490436808"]
+# add more contact numbers to list l
 msg="attendance"
 openbrave()
 openwhatsapp()
